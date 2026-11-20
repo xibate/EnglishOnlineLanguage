@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: English Online Language
+## Notes: Sets "Preferred Online Language" (Options > Languages and Social) to English on login.
+## Author: xibate
+## Version: 1.0.0
+## SavedVariables: EnglishOnlineLanguageDB
+
+EnglishOnlineLanguage.lua
